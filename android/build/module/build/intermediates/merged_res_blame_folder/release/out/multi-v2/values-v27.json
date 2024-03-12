@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/build/intermediates/merged_res/release/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "/Users/AbdullahFaqeir/.gradle/caches/transforms-3/d150837f0a83d199bec61e3b482e7cdf/transformed/titanium-12.2.1/res/values-v27/values-v27.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,261,488",
+                        "endLines": "5,9,18",
+                        "endColumns": "9,9,9",
+                        "endOffsets": "256,483,1050"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "/Users/AbdullahFaqeir/.gradle/caches/transforms-3/d150837f0a83d199bec61e3b482e7cdf/transformed/titanium-12.2.1/res/values-v27/values-v27.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,261,488",
+                        "endLines": "5,9,18",
+                        "endColumns": "9,9,9",
+                        "endOffsets": "256,483,1050"
+                    }
+                }
+            ]
+        }
+    ]
+}

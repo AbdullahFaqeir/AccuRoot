@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml:2:1-151
+INJECTED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml:2:1-151
+INJECTED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml:2:1-151
+	package
+		ADDED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml:2:117-149
+		INJECTED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml
+		INJECTED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml:2:70-116
+	xmlns:android
+		ADDED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml
+INJECTED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml
+INJECTED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml
+INJECTED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml
+		ADDED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml
+		INJECTED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml
+		ADDED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml
+		INJECTED from /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/AndroidManifest.xml

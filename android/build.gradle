@@ -1,0 +1,11 @@
+repositories {
+	google()
+	mavenCentral()
+}
+
+
+dependencies {
+	// Add the module's library dependencies here.
+	// See:  https://developer.android.com/studio/build/dependencies
+	implementation 'com.scottyab:rootbeer-lib:0.1.0'
+}

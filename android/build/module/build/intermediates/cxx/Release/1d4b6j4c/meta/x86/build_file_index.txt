@@ -1,0 +1,1 @@
+/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/jni/Android.mk

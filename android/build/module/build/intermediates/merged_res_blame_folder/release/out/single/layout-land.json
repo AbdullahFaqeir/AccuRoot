@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/build/intermediates/merged_res/release/layout-land/material_clock_period_toggle_land.xml",
+        "source": "/Users/AbdullahFaqeir/.gradle/caches/transforms-3/afb054296791b6bc190432263e6d9d17/transformed/material-1.6.1/res/layout-land/material_clock_period_toggle_land.xml"
+    },
+    {
+        "merged": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/build/intermediates/merged_res/release/layout-land/material_timepicker.xml",
+        "source": "/Users/AbdullahFaqeir/.gradle/caches/transforms-3/afb054296791b6bc190432263e6d9d17/transformed/material-1.6.1/res/layout-land/material_timepicker.xml"
+    },
+    {
+        "merged": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/build/intermediates/merged_res/release/layout-land/mtrl_picker_header_dialog.xml",
+        "source": "/Users/AbdullahFaqeir/.gradle/caches/transforms-3/afb054296791b6bc190432263e6d9d17/transformed/material-1.6.1/res/layout-land/mtrl_picker_header_dialog.xml"
+    }
+]
