@@ -9,6 +9,6 @@
 
 @interface ComAccusolutionsRootModule : TiModule
 
-@property (readwrite, nonatomic) BOOL shouldCrash;
+@property (nonatomic) BOOL shouldCrash;
 
 @end

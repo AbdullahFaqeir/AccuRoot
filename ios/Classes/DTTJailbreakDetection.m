@@ -33,6 +33,21 @@
         fclose(file);
         return YES;
     }
+    file = fopen("/Applications/palera1n.app", "r");
+    if (file) {
+        fclose(file);
+        return YES;
+    }
+    file = fopen("/Applications/Sileo.app", "r");
+    if (file) {
+        fclose(file);
+        return YES;
+    }
+    file = fopen("/Applications/Zebra.app", "r");
+    if (file) {
+        fclose(file);
+        return YES;
+    }
     file = fopen("/Library/MobileSubstrate/MobileSubstrate.dylib", "r");
     if (file) {
         fclose(file);

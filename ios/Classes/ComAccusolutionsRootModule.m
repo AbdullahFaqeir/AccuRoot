@@ -6,12 +6,11 @@
  */
 
 #import "ComAccusolutionsRootModule.h"
-#import "TiBase.h"
-#import "TiHost.h"
-#import "TiUtils.h"
 #import "DTTJailbreakDetection.h"
 
 @implementation ComAccusolutionsRootModule
+
+@synthesize shouldCrash = _shouldCrash;
 
 #pragma mark Internal
 
@@ -34,31 +33,29 @@
     // This method is called when the module is first loaded
     // You *must* call the superclass
     [super startup];
-    self.shouldCrash = false;
+    [self setShouldCrash:false];
 }
 
 #pragma Public APIs
 
-- (BOOL)isTamperedWith
+- (BOOL)isTamperedWith:(id)args
 {
     bool isTamperedWith = [DTTJailbreakDetection isJailbroken];
-    if(self.shouldCrash && isTamperedWith) {
+    if(_shouldCrash && isTamperedWith) {
         exit(0);
     }
     return isTamperedWith;
 }
 
-- (NSString *)getShouldCrash
+- (BOOL)getShouldCrash
 {
-    // Example property getter.
-    // Call with "MyModule.exampleProp" or "MyModule.getExampleProp()"
-    return @"Titanium rocks!";
+    return _shouldCrash;
 }
 
 
 - (void)setShouldCrash:(BOOL)shouldCrash
 {
-    self.shouldCrash = shouldCrash;
+    _shouldCrash = shouldCrash;
 }
 
 @end

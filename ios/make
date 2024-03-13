@@ -1,0 +1,5 @@
+ti clean
+
+if ti build -p ios --build-only --log-level trace --no-banner --no-progress-bars --no-prompts ; then
+        unzip -o dist/com.accusolutions.root-iphone-1.0.0.zip -d ~/Library/Application\ Support/Titanium/
+fi
