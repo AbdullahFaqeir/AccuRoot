@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 19 min SDK version: armeabi-v7a",
+    "file_": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 135995141
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/build/.cxx/Release/1d4b6j4c/armeabi-v7a/android_gradle_build.json due to:",
+    "file_": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2020233143
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/build/.cxx/Release/1d4b6j4c/armeabi-v7a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1602089539
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/build/.cxx/Release/1d4b6j4c/armeabi-v7a/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -212621477
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 459257938
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/build/.cxx/Release/1d4b6j4c/armeabi-v7a\u0027",
+    "file_": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 621454818
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild Executable : /Applications/adt-bundle-mac/sdk/ndk/21.4.7075529/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/jni/Android.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d0\nAPP_PLATFORM\u003dandroid-19\nNDK_OUT\u003d/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/build/intermediates/cxx/Release/1d4b6j4c/obj\nNDK_LIBS_OUT\u003d/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/build/intermediates/cxx/Release/1d4b6j4c/lib\nAPP_CPPFLAGS+\u003d-std\u003dc++14\nAPP_STL:\u003dc++_shared\n-j10\n--output-sync\u003dnone\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -113607175
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : /Applications/adt-bundle-mac/sdk/ndk/21.4.7075529/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/jni/Android.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d0\nAPP_PLATFORM\u003dandroid-19\nNDK_OUT\u003d/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/build/intermediates/cxx/Release/1d4b6j4c/obj\nNDK_LIBS_OUT\u003d/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/build/intermediates/cxx/Release/1d4b6j4c/lib\nAPP_CPPFLAGS+\u003d-std\u003dc++14\nAPP_STL:\u003dc++_shared\n-j10\n--output-sync\u003dnone\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1845538124
+  },
+  {
+    "level_": 0,
+    "message_": "parse and convert ndk-build output to build configuration JSON",
+    "file_": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1098225375
+  },
+  {
+    "level_": 0,
+    "message_": "done executing ndkBuild",
+    "file_": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 766621191
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/build/.cxx/Release/1d4b6j4c/armeabi-v7a/metadata_generation_command.txt",
+    "file_": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1667562005
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/AbdullahFaqeir/dev/TiModules/AccuRoot/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2084984771
+  }
+]
