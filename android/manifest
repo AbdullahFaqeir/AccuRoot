@@ -15,4 +15,4 @@ name: AccuRoot
 moduleid: com.accusolutions.root
 guid: 2ab27e2c-01a8-4d50-a2e5-96b74c59502d
 platform: android
-minsdk: 12.3.0.GA
+minsdk: 12.2.1.GA

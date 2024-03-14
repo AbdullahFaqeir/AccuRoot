@@ -43,16 +43,9 @@ public class AccuRootModule extends KrollModule {
         }
         return isTamperedWith;
     }
-
-    // Properties
-    @Kroll.getProperty
-    public boolean getShouldCrash() {
-        return shouldCrash;
-    }
-
-
-    @Kroll.setProperty
-    public void setExampleProp(boolean shouldCrash) {
+    
+    @Kroll.method
+    public void setShouldCrash(boolean shouldCrash) {
         this.shouldCrash = shouldCrash;
     }
 }
